@@ -20,7 +20,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 - Correlation analysis
 
 ## Files
-- trade_analysis.ipynb
+- DATA ANALYSIS ON GLOBAL TRADE TRANSACTIONS.ipynb
 
 ## How to Run
 Run the notebook to reproduce analysis and visualizations.
